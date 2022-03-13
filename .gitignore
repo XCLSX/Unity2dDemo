@@ -2,3 +2,8 @@ Library/
 Temp/
 ProjectSettings/
 Logs/
+.vsconfig
+2dDemo.sln
+Packages/manifest.json
+Packages/packages-lock.json
+UserSettings/EditorUserSettings.asset
